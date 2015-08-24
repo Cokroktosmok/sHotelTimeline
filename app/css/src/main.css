@@ -1,0 +1,20 @@
+#visualization {
+  box-sizing: border-box;
+  width: 95%;
+  height: 300px;
+}
+
+.col-centered{
+    float: none;
+    margin: 0 auto;
+}
+
+.bg-image {
+  background-image: url('../img/bg.jpg');
+}
+
+.jumbotron h1 {
+  color: white;
+  text-shadow: 0px 0px 30px black;
+}
+
